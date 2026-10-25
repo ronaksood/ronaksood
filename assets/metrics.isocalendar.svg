@@ -1,0 +1,144 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="220" viewBox="0 0 850 220">
+  <defs>
+    <style>
+      .hdr { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 13.5px; font-weight: 600; fill: #39d353; }
+      .sub { font-family: ui-monospace, 'SF Mono', monospace; font-size: 11px; fill: #8b949e; }
+    </style>
+    <linearGradient id="gridGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#161b22" />
+      <stop offset="50%" stop-color="#21262d" />
+      <stop offset="100%" stop-color="#161b22" />
+    </linearGradient>
+  </defs>
+
+  <rect width="850" height="220" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1" />
+
+  <text x="28" y="32" class="hdr">3D Isometric Contribution Timeline</text>
+  <text x="28" y="48" class="sub">Continuous commit activity across distributed backends &amp; AI research</text>
+
+  <!-- Isometric contribution block grid (Simulated 3D projection) -->
+  <g transform="translate(65, 80)">
+    <!-- Column groups with 3D blocks (isometric cubes) -->
+    <!-- Week strips -->
+    <g transform="translate(0, 0)">
+      <polygon points="12,0 24,6 12,12 0,6" fill="#0e4429" />
+      <polygon points="0,6 12,12 12,24 0,18" fill="#0a331f" />
+      <polygon points="12,12 24,6 24,18 12,24" fill="#135936" />
+    </g>
+    <g transform="translate(30, 10)">
+      <polygon points="12,0 24,6 12,12 0,6" fill="#006d32" />
+      <polygon points="0,6 12,12 12,28 0,22" fill="#005326" />
+      <polygon points="12,12 24,6 24,22 12,28" fill="#00883e" />
+    </g>
+    <g transform="translate(60, 20)">
+      <polygon points="12,0 24,6 12,12 0,6" fill="#26a641" />
+      <polygon points="0,6 12,12 12,38 0,32" fill="#1e8434" />
+      <polygon points="12,12 24,6 24,32 12,38" fill="#2ebf4a" />
+    </g>
+    <g transform="translate(90, 5)">
+      <polygon points="12,0 24,6 12,12 0,6" fill="#39d353" />
+      <polygon points="0,6 12,12 12,46 0,40" fill="#2da442" />
+      <polygon points="12,12 24,6 24,40 12,46" fill="#44e55e" />
+    </g>
+    <g transform="translate(120, 25)">
+      <polygon points="12,0 24,6 12,12 0,6" fill="#006d32" />
+      <polygon points="0,6 12,12 12,26 0,20" fill="#005326" />
+      <polygon points="12,12 24,6 24,20 12,26" fill="#00883e" />
+    </g>
+    <g transform="translate(150, 12)">
+      <polygon points="12,0 24,6 12,12 0,6" fill="#26a641" />
+      <polygon points="0,6 12,12 12,36 0,30" fill="#1e8434" />
+      <polygon points="12,12 24,6 24,30 12,36" fill="#2ebf4a" />
+    </g>
+    <g transform="translate(180, 28)">
+      <polygon points="12,0 24,6 12,12 0,6" fill="#39d353" />
+      <polygon points="0,6 12,12 12,50 0,44" fill="#2da442" />
+      <polygon points="12,12 24,6 24,44 12,50" fill="#44e55e" />
+    </g>
+    <g transform="translate(210, 14)">
+      <polygon points="12,0 24,6 12,12 0,6" fill="#26a641" />
+      <polygon points="0,6 12,12 12,34 0,28" fill="#1e8434" />
+      <polygon points="12,12 24,6 24,28 12,34" fill="#2ebf4a" />
+    </g>
+    <g transform="translate(240, 5)">
+      <polygon points="12,0 24,6 12,12 0,6" fill="#39d353" />
+      <polygon points="0,6 12,12 12,48 0,42" fill="#2da442" />
+      <polygon points="12,12 24,6 24,42 12,48" fill="#44e55e" />
+    </g>
+    <g transform="translate(270, 22)">
+      <polygon points="12,0 24,6 12,12 0,6" fill="#006d32" />
+      <polygon points="0,6 12,12 12,28 0,22" fill="#005326" />
+      <polygon points="12,12 24,6 24,22 12,28" fill="#00883e" />
+    </g>
+    <g transform="translate(300, 16)">
+      <polygon points="12,0 24,6 12,12 0,6" fill="#26a641" />
+      <polygon points="0,6 12,12 12,36 0,30" fill="#1e8434" />
+      <polygon points="12,12 24,6 24,30 12,36" fill="#2ebf4a" />
+    </g>
+    <g transform="translate(330, 8)">
+      <polygon points="12,0 24,6 12,12 0,6" fill="#39d353" />
+      <polygon points="0,6 12,12 12,44 0,38" fill="#2da442" />
+      <polygon points="12,12 24,6 24,38 12,44" fill="#44e55e" />
+    </g>
+    <g transform="translate(360, 20)">
+      <polygon points="12,0 24,6 12,12 0,6" fill="#26a641" />
+      <polygon points="0,6 12,12 12,32 0,26" fill="#1e8434" />
+      <polygon points="12,12 24,6 24,26 12,32" fill="#2ebf4a" />
+    </g>
+    <g transform="translate(390, 10)">
+      <polygon points="12,0 24,6 12,12 0,6" fill="#006d32" />
+      <polygon points="0,6 12,12 12,24 0,18" fill="#005326" />
+      <polygon points="12,12 24,6 24,18 12,24" fill="#00883e" />
+    </g>
+    <g transform="translate(420, 24)">
+      <polygon points="12,0 24,6 12,12 0,6" fill="#39d353" />
+      <polygon points="0,6 12,12 12,48 0,42" fill="#2da442" />
+      <polygon points="12,12 24,6 24,42 12,48" fill="#44e55e" />
+    </g>
+    <g transform="translate(450, 15)">
+      <polygon points="12,0 24,6 12,12 0,6" fill="#26a641" />
+      <polygon points="0,6 12,12 12,36 0,30" fill="#1e8434" />
+      <polygon points="12,12 24,6 24,30 12,36" fill="#2ebf4a" />
+    </g>
+    <g transform="translate(480, 5)">
+      <polygon points="12,0 24,6 12,12 0,6" fill="#39d353" />
+      <polygon points="0,6 12,12 12,52 0,46" fill="#2da442" />
+      <polygon points="12,12 24,6 24,46 12,52" fill="#44e55e" />
+    </g>
+    <g transform="translate(510, 22)">
+      <polygon points="12,0 24,6 12,12 0,6" fill="#006d32" />
+      <polygon points="0,6 12,12 12,24 0,18" fill="#005326" />
+      <polygon points="12,12 24,6 24,18 12,24" fill="#00883e" />
+    </g>
+    <g transform="translate(540, 12)">
+      <polygon points="12,0 24,6 12,12 0,6" fill="#26a641" />
+      <polygon points="0,6 12,12 12,36 0,30" fill="#1e8434" />
+      <polygon points="12,12 24,6 24,30 12,36" fill="#2ebf4a" />
+    </g>
+    <g transform="translate(570, 8)">
+      <polygon points="12,0 24,6 12,12 0,6" fill="#39d353" />
+      <polygon points="0,6 12,12 12,48 0,42" fill="#2da442" />
+      <polygon points="12,12 24,6 24,42 12,48" fill="#44e55e" />
+    </g>
+    <g transform="translate(600, 20)">
+      <polygon points="12,0 24,6 12,12 0,6" fill="#006d32" />
+      <polygon points="0,6 12,12 12,26 0,20" fill="#005326" />
+      <polygon points="12,12 24,6 24,20 12,26" fill="#00883e" />
+    </g>
+    <g transform="translate(630, 14)">
+      <polygon points="12,0 24,6 12,12 0,6" fill="#26a641" />
+      <polygon points="0,6 12,12 12,38 0,32" fill="#1e8434" />
+      <polygon points="12,12 24,6 24,32 12,38" fill="#2ebf4a" />
+    </g>
+    <g transform="translate(660, 2)">
+      <polygon points="12,0 24,6 12,12 0,6" fill="#39d353" />
+      <polygon points="0,6 12,12 12,54 0,48" fill="#2da442" />
+      <polygon points="12,12 24,6 24,48 12,54" fill="#44e55e" />
+    </g>
+    <g transform="translate(690, 18)">
+      <polygon points="12,0 24,6 12,12 0,6" fill="#26a641" />
+      <polygon points="0,6 12,12 12,32 0,26" fill="#1e8434" />
+      <polygon points="12,12 24,6 24,26 12,32" fill="#2ebf4a" />
+    </g>
+  </g>
+</svg>

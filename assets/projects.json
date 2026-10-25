@@ -1,0 +1,20 @@
+{
+  "projects": [
+    {
+      "repo": "chandigarh_police_investigation_system_design",
+      "description": "Forensics lakehouse cutting telecom/banking evidence reconstruction from months to minutes."
+    },
+    {
+      "repo": "deliberate_panel_10agents_design",
+      "description": "Multi-agent RAG deliberation architecture evaluated via IBM STAIR achieving 93% accuracy."
+    },
+    {
+      "repo": "secondChance_workflow",
+      "description": "Clinical relapse prevention pipeline orchestrating 10 ML models with survival analysis."
+    },
+    {
+      "repo": "paralysed",
+      "description": "Touchless eye-tracking navigation and assistive learning platform for severe motor paralysis."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Engineering Radar",
+  "axes": [
+    { "label": "Distributed Data", "value": 90 },
+    { "label": "Agentic AI & RAG", "value": 94 },
+    { "label": "Computer Vision", "value": 88 },
+    { "label": "Graph Analytics", "value": 92 },
+    { "label": "Backend & APIs", "value": 89 },
+    { "label": "System Design", "value": 87 },
+    { "label": "DSA & C++ / Py", "value": 91 }
+  ]
+}
